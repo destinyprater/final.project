@@ -1,2 +1,2 @@
 # final.project
-Final Project Proposal
+Based on tutorials from KiteCo and Kylie Yang
